@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=DM+Serif+Text:ital@0;1&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');@import url('https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css');
 @import url('https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css');
 
 body {
@@ -10,11 +10,11 @@ h1, h2, h3, h4, h5, h6, .title {
 }
 
 :root {
+    --heading-font: 'Playfair Display', 'Plus Jakarta Sans', 'Fluent Emoji Color', -apple-system, BlinkMacSystemFont, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --body-font: 'Plus Jakarta Sans', 'Fluent Emoji Color', sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";;
+	--vp-font-family-mono: 'Jetbrains Mono', ui-monospace, "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace;
     --color-primary: #c94949;
     --color-secondary: #22729B;
-    --heading-font: 'DM Serif Text', 'DM Sans', 'Fluent Emoji Color', -apple-system, BlinkMacSystemFont, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    --body-font: 'DM Sans', 'Plus Jakarta Sans', 'Fluent Emoji Color', sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";;
-	--vp-font-family-mono: 'Jetbrains Mono', ui-monospace, "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace;
 }
 
 .dark {
