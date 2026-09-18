@@ -1,4 +1,4 @@
 allowBuilds:
   esbuild: true
 minimumReleaseAgeExclude:
-  - primary-vitepress@1.1.0
+  - primary-vitepress@1.1.7
