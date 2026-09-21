@@ -15,8 +15,8 @@ hero:
       text: 💸 Eco
       link: /eco/
     - theme: alt
-      text: ✨ Contribute
-      link: /contribution/
+      text: 🍃 Bio
+      link: /bio/
 features:
   - title: Feature A
     details: This frontend is not definitive
